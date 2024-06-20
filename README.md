@@ -1,4 +1,4 @@
-                  **** Customer credit in finance department dataset ****
+##  Customer credit in finance department dataset 
 
 
 * Context :
